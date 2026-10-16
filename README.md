@@ -1,39 +1,55 @@
 <div align="center">
 
-<img src="assets/icon-512.png" alt="DocNest logo" width="120" />
+<img src="assets/icon-512.png" alt="DocSteep logo" width="120" />
 
-# DocNest
+# DocSteep
 
 ### One organised home for your family's documents
 
 **Private · Encrypted · Family-first**
 
-[![Available on Indus Appstore](https://img.shields.io/badge/Download-Indus%20Appstore-1a73e8?style=for-the-badge&logo=android&logoColor=white)](https://tinyurl.com/docnestapp)
-[![Website](https://img.shields.io/badge/Website-docnest.snakri.space-0f9d58?style=for-the-badge&logo=googlechrome&logoColor=white)](https://docnest.snakri.space)
-[![Project page](https://img.shields.io/badge/Project%20Page-GitHub%20Pages-6d4cff?style=for-the-badge&logo=github&logoColor=white)](https://ramakrishnadandu.github.io/DocNest-Public/)
+*Formerly **DocNest**. Version **1.0.4** is out now.*
+
+[![Available on Indus Appstore](https://img.shields.io/badge/Download-Indus%20Appstore-1a73e8?style=for-the-badge&logo=android&logoColor=white)](https://www.indusappstore.com/apps/productivity/docnest/com.docnest/?page=details&id=com.docnest)
+[![Website](https://img.shields.io/badge/Website-docsteep.snakri.space-0f9d58?style=for-the-badge&logo=googlechrome&logoColor=white)](https://docsteep.snakri.space)
+[![Project page](https://img.shields.io/badge/Project%20Page-GitHub%20Pages-0ea5e9?style=for-the-badge&logo=github&logoColor=white)](https://ramakrishnadandu.github.io/DocSteep-Public/)
 
 ![Platform](https://img.shields.io/badge/Platform-Android%208.0%2B-3ddc84?style=flat-square&logo=android&logoColor=white)
 ![Price](https://img.shields.io/badge/Price-Free-success?style=flat-square)
 ![Languages](https://img.shields.io/badge/Languages-9-orange?style=flat-square)
 ![Encryption](https://img.shields.io/badge/Encryption-AES--256-critical?style=flat-square)
 ![Made in India](https://img.shields.io/badge/Made%20in-India%20🇮🇳-ff9933?style=flat-square)
+![Version](https://img.shields.io/badge/Version-1.0.4-0ea5e9?style=flat-square)
 
-<img src="assets/feature-1024x500.png" alt="DocNest — your family's documents in one secure place" width="100%" />
+<img src="assets/feature-1024x500.png" alt="DocSteep: your family's documents, organised, reminded and safe" width="100%" />
 
 </div>
 
 ---
 
-## 📖 About DocNest
+## 🆕 What's new in 1.0.4
+
+**DocNest is now DocSteep!** It's the same private family vault, with a fresh new name and logo.
+
+- 🏷️ **New name and logo.** The DocSteep name now appears in all 9 languages, and there's a new website at **[docsteep.snakri.space](https://docsteep.snakri.space)**.
+- 💾 **Nothing to redo.** Your documents, Drive backups, PIN and settings stay exactly as they are. Just update and carry on.
+- 🏦 **New Banks & Loans category.** Passbooks, cards, FDs and every loan paper are grouped by bank, with maturity and loan-end reminders.
+
+> Already have DocNest? Open the Indus Appstore and tap **Update**. It's the same app (`com.docnest`), so it updates in place.
+
+---
+
+## 📖 About DocSteep
 
 Aadhaar, PAN, passports, insurance policies, school certificates, vehicle papers, bills… Every family keeps them somewhere, usually spread across drawers, WhatsApp chats and email inboxes. When you need one urgently, it is never at hand. When one expires, nobody notices until it is too late.
 
-**DocNest** was built to solve exactly that. It is a private, family-first home for the paperwork of life, and an assistant that tells you **what is missing, what is expiring and what needs your attention next**.
+**DocSteep** was built to solve exactly that. It is a private, family-first home for the paperwork of life, and an assistant that tells you **what is missing, what is expiring and what needs your attention next**.
 
-> 💡 DocNest started as the developer's solution to their own family's document chaos. It is now available for every family.
+> 💡 DocSteep started as the developer's solution to their own family's document chaos. It is now available for every family.
 
 <div align="center">
-<img src="assets/docnest-story.png" alt="Documents everywhere → Scan, organise, save → Your family vault → Never miss a deadline → Meet DocNest" width="100%" />
+<img src="assets/docnest-story.png" alt="Documents everywhere → Scan, organise, save → Your family vault → Never miss a deadline" width="100%" />
+<br /><sub>This story graphic was made when the app was still called DocNest.</sub>
 </div>
 
 ---
@@ -56,6 +72,11 @@ Aadhaar, PAN, passports, insurance policies, school certificates, vehicle papers
 <td align="center"><img src="assets/screenshots/07-travel-trips.png" width="240" alt="Travel and trips" /><br /><b>Travel & trips</b></td>
 <td align="center"><img src="assets/screenshots/private-document.png" width="240" alt="Private document hidden until unlocked" /><br /><b>Private stays private</b></td>
 <td align="center"><img src="assets/screenshots/vehicle-files.png" width="240" alt="Vehicle files and service history" /><br /><b>Vehicles & files</b></td>
+</tr>
+<tr>
+<td align="center"><img src="assets/screenshots/08-life-stage-checklists.png" width="240" alt="Life-stage checklists" /><br /><b>Life-stage checklists</b></td>
+<td align="center"><img src="assets/screenshots/money-tools.png" width="240" alt="Money tools" /><br /><b>Money tools</b></td>
+<td align="center"><img src="assets/screenshots/emergency-sos.png" width="240" alt="Emergency SOS" /><br /><b>Emergency SOS</b></td>
 </tr>
 </table>
 </div>
@@ -81,8 +102,17 @@ Aadhaar, PAN, passports, insurance policies, school certificates, vehicle papers
 - Scan up to **20 pages** with edge detection, crop and straighten
 - Colour modes: natural, enhanced, greyscale or shadow-free black & white
 - Attach existing PDFs, images and photos
-- **Share to DocNest** directly from Gmail, WhatsApp, Files or Photos
-- Unknown document? DocNest reads its heading and suggests where to file it
+- **Share to DocSteep** directly from Gmail, WhatsApp, Files or Photos
+- Unknown document? DocSteep reads its heading and suggests where to file it
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🏦 Banks & loans <sup>NEW in 1.0.4</sup>
+- Passbooks, statements, cards, FDs, RDs and every loan paper, **grouped by bank**
+- Loan and deposit totals, with **reminders before an FD matures, a loan ends or a card expires**
 
 </td>
 </tr>
@@ -154,9 +184,9 @@ The whole app is available in **English, हिन्दी, తెలుగు,
 
 ## 🔐 Security: built in, not bolted on
 
-Family documents are some of the most sensitive data you own, so DocNest was designed with security as a core requirement from day one.
+Family documents are some of the most sensitive data you own, so DocSteep was designed with security as a core requirement from day one.
 
-| Layer | How DocNest protects you |
+| Layer | How DocSteep protects you |
 |---|---|
 | 🔑 **Strong sign-in** | Google sign-in, followed by your own **app PIN**. Fingerprint unlock is optional. |
 | 🔒 **Auto-lock** | The app locks itself when you leave it. |
@@ -170,17 +200,18 @@ Family documents are some of the most sensitive data you own, so DocNest was des
 | 📍 **No tracking** | No background location tracking. Nothing is shared without your action. |
 | 🗑️ **You stay in control** | Delete all your data any time from Settings. |
 
-> ✅ **Your data is yours.** DocNest has no server-side copy of your documents. They live only on your phone and in your own Google Drive, encrypted.
+> ✅ **Your data is yours.** DocSteep has no server-side copy of your documents. They live only on your phone and in your own Google Drive, encrypted.
 
 ---
 
 ## 🚀 Getting started
 
 ### 1. Install
-Download DocNest from the **[Indus Appstore](https://tinyurl.com/docnestapp)** on any Android phone (Android 8.0 or newer). You can also open the Indus Appstore, search for **"DocNest"** and tap **Install**.
+Download DocSteep from the **[Indus Appstore](https://www.indusappstore.com/apps/productivity/docnest/com.docnest/?page=details&id=com.docnest)** on any Android phone (Android 8.0 or newer). You can also open the Indus Appstore, search for **"DocSteep"** and tap **Install**.
 
 <div align="center">
-<img src="assets/how-to-install.png" alt="How to install DocNest from the Indus Appstore in 10 steps" width="100%" />
+<img src="assets/how-to-install.png" alt="How to install the app from the Indus Appstore in 10 steps" width="100%" />
+<br /><sub>This guide shows the old DocNest name. The steps are the same; the app now appears as DocSteep.</sub>
 </div>
 
 ### 2. First-time setup
@@ -189,11 +220,11 @@ Download DocNest from the **[Indus Appstore](https://tinyurl.com/docnestapp)** o
 3. **Set your app PIN.** You can also turn on fingerprint unlock.
 
 ### 3. Add your family
-Go to **People** and add each family member with their life stage (student, working, retired, and so on). DocNest instantly builds a checklist of the documents each person needs.
+Go to **People** and add each family member with their life stage (student, working, retired, and so on). DocSteep instantly builds a checklist of the documents each person needs.
 
 ### 4. Add documents
 1. Tap **➕ Add / Capture**.
-2. Choose **Scan**, **Photo** or **File**. You can also share a file to DocNest from WhatsApp, Gmail or any other app.
+2. Choose **Scan**, **Photo** or **File**. You can also share a file to DocSteep from WhatsApp, Gmail or any other app.
 3. Pick the **person**, **category** and **document type**.
 4. Add an **expiry date** if it has one, and choose a **privacy level**.
 5. Tap **Save**. Done! ✅
@@ -215,7 +246,7 @@ Go to **People** and add each family member with their life stage (student, work
 | Change security or language | **Settings** |
 
 ### 7. New phone? No problem
-Install DocNest on your new phone and **sign in with the same Google account**. Your encrypted backup is restored automatically.
+Install DocSteep on your new phone and **sign in with the same Google account**. Your encrypted backup is restored automatically.
 
 ---
 
@@ -223,12 +254,35 @@ Install DocNest on your new phone and **sign in with the same Google account**. 
 
 | | |
 |---|---|
-| 📲 **Download** | [Indus Appstore](https://tinyurl.com/docnestapp) |
-| 🌐 **Website** | [docnest.snakri.space](https://docnest.snakri.space) |
-| 🔏 **Privacy policy** | [docnest.snakri.space/privacy.html](https://docnest.snakri.space/privacy.html) |
-| 📜 **Terms of use** | [docnest.snakri.space/terms.html](https://docnest.snakri.space/terms.html) |
-| 🗑️ **Delete your data** | [docnest.snakri.space/delete-data.html](https://docnest.snakri.space/delete-data.html) |
+| 📲 **Download** | [Indus Appstore](https://www.indusappstore.com/apps/productivity/docnest/com.docnest/?page=details&id=com.docnest) |
+| 🌐 **Website** | [docsteep.snakri.space](https://docsteep.snakri.space) |
+| 🔏 **Privacy policy** | [docsteep.snakri.space/privacy.html](https://docsteep.snakri.space/privacy.html) |
+| 📜 **Terms of use** | [docsteep.snakri.space/terms.html](https://docsteep.snakri.space/terms.html) |
+| ⚠️ **Disclaimer** | [docsteep.snakri.space/disclaimer.html](https://docsteep.snakri.space/disclaimer.html) |
+| 🗑️ **Delete your data** | [docsteep.snakri.space/delete-data.html](https://docsteep.snakri.space/delete-data.html) |
 | ✉️ **Support** | [snakrispace@gmail.com](mailto:snakrispace@gmail.com) |
+
+---
+
+## 👨‍💻 Meet the developer
+
+<table>
+<tr>
+<td width="180" valign="top"><img src="assets/developer.jpg" width="160" alt="Dandu Ramakrishna, developer of DocSteep" /></td>
+<td valign="top">
+
+### Dandu Ramakrishna
+**Creator of DocSteep · Made in India 🇮🇳**
+
+DocSteep started as a fix for my own family's paperwork: Aadhaar cards in one drawer, insurance in an inbox, school certificates in a WhatsApp chat, and renewals that slipped by unnoticed.
+
+I built it to be private first, simple enough for everyone at home, and available in the languages Indian families speak. Your feedback shapes what comes next.
+
+✉️ [snakrispace@gmail.com](mailto:snakrispace@gmail.com)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -238,20 +292,20 @@ Found a bug, have a feature idea, or need help?
 - Open an **[issue](../../issues)** in this repository, or
 - Email **[snakrispace@gmail.com](mailto:snakrispace@gmail.com)**
 
-If DocNest helps your family, please ⭐ **star this repo** and share it with someone who's always searching for *"that one document"*.
+If DocSteep helps your family, please ⭐ **star this repo** and share it with someone who's always searching for *"that one document"*.
 
 ---
 
 ## ⚠️ Disclaimer
 
-DocNest is free to use and shows small, labelled sponsored banners on the Tools screens only. Calculators and suggestions are for education and planning only. They are not professional medical, tax, legal, insurance or investment advice. DocNest is not affiliated with any government body, bank or credit bureau.
+DocSteep is free to use and shows small, labelled sponsored banners on the Tools screens only. Calculators and suggestions are for education and planning only. They are not professional medical, tax, legal, insurance or investment advice. DocSteep is not affiliated with any government body, bank or credit bureau.
 
 ---
 
 <div align="center">
 
-**DocNest: one organised home for your family's documents.** 💙
+**DocSteep: one organised home for your family's documents.** 💙
 
-Made with care in India 🇮🇳
+Formerly DocNest · Made with care in India 🇮🇳
 
 </div>

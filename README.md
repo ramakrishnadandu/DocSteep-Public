@@ -8,7 +8,7 @@
 
 **Private · Encrypted · Family-first**
 
-*Formerly **DocNest**. Version **1.0.4** is out now.*
+*Version **1.0.4** is out now.*
 
 [![Available on Indus Appstore](https://img.shields.io/badge/Download-Indus%20Appstore-1a73e8?style=for-the-badge&logo=android&logoColor=white)](https://www.indusappstore.com/apps/productivity/docnest/com.docnest/?page=details&id=com.docnest)
 [![Website](https://img.shields.io/badge/Website-docsteep.snakri.space-0f9d58?style=for-the-badge&logo=googlechrome&logoColor=white)](https://docsteep.snakri.space)
@@ -29,13 +29,13 @@
 
 ## 🆕 What's new in 1.0.4
 
-**DocNest is now DocSteep!** It's the same private family vault, with a fresh new name and logo.
+The same private family vault, with a fresh new look.
 
-- 🏷️ **New name and logo.** The DocSteep name now appears in all 9 languages, and there's a new website at **[docsteep.snakri.space](https://docsteep.snakri.space)**.
-- 💾 **Nothing to redo.** Your documents, Drive backups, PIN and settings stay exactly as they are. Just update and carry on.
+- 🏷️ **Fresh logo.** The new DocSteep icon appears across the app in all 9 languages, and there's a new website at **[docsteep.snakri.space](https://docsteep.snakri.space)**.
+- 💾 **Nothing to redo.** Updating keeps your documents, Drive backups, PIN and settings exactly as they are.
 - 🏦 **New Banks & Loans category.** Passbooks, cards, FDs and every loan paper are grouped by bank, with maturity and loan-end reminders.
 
-> Already have DocNest? Open the Indus Appstore and tap **Update**. It's the same app (`com.docnest`), so it updates in place.
+> Already installed? Open the Indus Appstore and tap **Update**.
 
 ---
 
@@ -46,11 +46,6 @@ Aadhaar, PAN, passports, insurance policies, school certificates, vehicle papers
 **DocSteep** was built to solve exactly that. It is a private, family-first home for the paperwork of life, and an assistant that tells you **what is missing, what is expiring and what needs your attention next**.
 
 > 💡 DocSteep started as the developer's solution to their own family's document chaos. It is now available for every family.
-
-<div align="center">
-<img src="assets/docnest-story.png" alt="Documents everywhere → Scan, organise, save → Your family vault → Never miss a deadline" width="100%" />
-<br /><sub>This story graphic was made when the app was still called DocNest.</sub>
-</div>
 
 ---
 
@@ -210,8 +205,7 @@ Family documents are some of the most sensitive data you own, so DocSteep was de
 Download DocSteep from the **[Indus Appstore](https://www.indusappstore.com/apps/productivity/docnest/com.docnest/?page=details&id=com.docnest)** on any Android phone (Android 8.0 or newer). You can also open the Indus Appstore, search for **"DocSteep"** and tap **Install**.
 
 <div align="center">
-<img src="assets/how-to-install.png" alt="How to install the app from the Indus Appstore in 10 steps" width="100%" />
-<br /><sub>This guide shows the old DocNest name. The steps are the same; the app now appears as DocSteep.</sub>
+<img src="assets/how-to-install.png" alt="How to get DocSteep: search DocSteep on the Indus Appstore by PhonePe and tap Install" width="100%" />
 </div>
 
 ### 2. First-time setup
@@ -306,6 +300,6 @@ DocSteep is free to use and shows small, labelled sponsored banners on the Tools
 
 **DocSteep: one organised home for your family's documents.** 💙
 
-Formerly DocNest · Made with care in India 🇮🇳
+Made with care in India 🇮🇳
 
 </div>

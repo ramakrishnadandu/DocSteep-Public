@@ -262,7 +262,7 @@ Install DocSteep on your new phone and **sign in with the same Google account**.
 
 <table>
 <tr>
-<td width="180" valign="top"><img src="assets/developer.jpg" width="160" alt="Dandu Ramakrishna, developer of DocSteep" /></td>
+<td width="180" valign="top"><img src="assets/developer.png" width="160" alt="Dandu Ramakrishna, developer of DocSteep" /></td>
 <td valign="top">
 
 ### Dandu Ramakrishna
